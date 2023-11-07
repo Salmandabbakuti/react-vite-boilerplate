@@ -54,3 +54,14 @@ button:hover {
   color: aliceblue;
   filter: drop-shadow(0 0 2em #64ffbcaa);
 }
+
+.github {
+  background-color: #646cff;
+  border: 1px solid #64ffbcaa;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
